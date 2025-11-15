@@ -1,0 +1,4 @@
+baseURL = 'https://idichekop.github.io/'
+languageCode = 'en-us'
+title = 'Dr. Rer. Nat. Julio A. de Oliveira Filho'
+theme = 'Blowfish'
