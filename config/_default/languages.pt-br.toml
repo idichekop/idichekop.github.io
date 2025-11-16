@@ -1,17 +1,17 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "pt-br"
+languageName = "Portuguese(Brazil)"
 weight = 1
 title = "Dr. Rer. Nat. Julio A. de Oliveira Filho"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "PT(BR)"
+  isoCode = "pt-br"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Welcome to the my personal website!"
+  description = "Bem-vindo(a) ao meu site!"
   #copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
@@ -19,8 +19,8 @@ title = "Dr. Rer. Nat. Julio A. de Oliveira Filho"
   email = "idichekop@yahoo.com.br"
   image = "img/myPic.jpg"
 #   imageQuality = 96
-  headline = "Innovator Scientist and Engineer of safe AI systems"
-  bio = "I am Julio A. de Oliveira Filho, Brazilian-Dutch, father of 3 wonderful children, curious about life, and crazy about science and technology."
+  headline = "Cientista, Technologista, e Engenheiro de sistemas digitais inteligentes"
+  bio = "Eu sou Julio A. de Oliveira Filho, brasileiro-holandês, pai de 3 filhos maravilhosos,curioso sobre a vida e apaixonado por ciência e tecnologia."
   links = [
     { email = "mailto:idichekop@yahoo.com.br" },
 #     { link = "https://link-to-some-website.com/" },
