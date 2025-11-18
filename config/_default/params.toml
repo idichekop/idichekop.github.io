@@ -54,8 +54,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "https://media.licdn.com/dms/image/v2/D4E16AQHELUxqJ7Gi7A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682679635500?e=1764806400&v=beta&t=wiXlQmCnwF1t20-EzLkC8YO22_Xxd75uyKwVrZ-S_Ps" # used in: hero, and card
-  #homepageImage = "/img/background.svg"
+  #homepageImage = "https://media.licdn.com/dms/image/v2/D4E16AQHELUxqJ7Gi7A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682679635500?e=1764806400&v=beta&t=wiXlQmCnwF1t20-EzLkC8YO22_Xxd75uyKwVrZ-S_Ps" # used in: hero, and card
+  homepageImage = "/img/background.svg"
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
